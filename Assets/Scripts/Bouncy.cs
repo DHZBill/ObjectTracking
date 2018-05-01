@@ -44,10 +44,5 @@ public class Bouncy : MonoBehaviour {
             GetComponent<Rigidbody>().velocity = new Vector3(-previous.x, previous.y, previous.z);
             
         }
-
     }
-
-  
-
-
 }
